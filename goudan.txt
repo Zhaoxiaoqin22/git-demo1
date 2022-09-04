@@ -4,3 +4,8 @@ dandandan
 ludan
 tiantian
 yangyang
+git
+shell
+sql
+sqoop
+azkaban
